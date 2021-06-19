@@ -319,12 +319,12 @@ footer {
 	}
 }
 
-@media(max-width: 450px){
+@media(max-width: 480px){
 	.cake-box-container{
 		grid-template-columns: 1fr;
 	}	
 	.cake-img{
-		width: 500px;
+		width: 300px;
 	}
 	.show-details-1, .show-details-2, .show-details-3, .show-details-4, .show-details-5, .show-details-6 {
 		grid-column: 1/2;
